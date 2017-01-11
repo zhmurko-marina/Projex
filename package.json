@@ -1,0 +1,35 @@
+{
+  "name": "projex",
+  "version": "1.0.0",
+  "description": "first test project",
+  "main": "assets/js/dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhmurko-marina/Projex.git"
+  },
+  "keywords": [
+    "projex",
+    "template"
+  ],
+  "author": "Marina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhmurko-marina/Projex/issues"
+  },
+  "homepage": "https://github.com/zhmurko-marina/Projex#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.7",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-clean-css": "^2.0.7",
+    "gulp-less": "^3.3.0",
+    "gulp-rename": "^1.2.2"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
